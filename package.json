@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/BrewBeast/Coding_Challenges/issues"
   },
-  "homepage": "https://github.com/BrewBeast/Coding_Challenges#readme"
+  "homepage": "https://github.com/BrewBeast/Coding_Challenges#readme",
+  "devDependencies": {
+    "jest": "^26.3.0"
+  }
 }
